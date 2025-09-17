@@ -41,6 +41,8 @@ I am a computer engineering student, currently halfway through my degree. I am e
 
 </span>
 
+<h2>Github stats:</h2> 
+
 <p align="center">
 <a href="https://github.com/namoruso">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namoruso&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>

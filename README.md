@@ -11,13 +11,13 @@
 <p>
 I am a <strong>Computer Engineering student</strong> nearing the end of my degree and a <strong>Full Stack Developer</strong> specializing in the <strong>MERN stack</strong> and modern frameworks like <strong>Next.js 14</strong>.
 <br><br>
-I have moved beyond "just learning" to <strong>building scalable production applications</strong>. I focus on creating immersive user experiences with <strong>Tailwind CSS</strong> and robust backends with <strong>Supabase & PostgreSQL</strong>.
+I have moved beyond "just learning" to <strong>building scalable production applications</strong>. I focus on creating immersive user experiences with <strong>React</strong> and robust backends with <strong>Node.js & SQL</strong>.
 </p>
 
 - 🔭 I’m currently working on **Advanced ERP Systems & Event Platforms**.
-- 🌱 I’m currently expanding my skills in **Rust** and **Spring Boot**.
+- 🌱 I’m currently expanding my skills in **Java Enterprise**, **Spring Boot** and **AWS**.
 - 🤝 I’m looking to collaborate on impactful **Open Source projects**.
-- 🎮 Outside tech: Playing Counter-Strike 2, listening to music, and playing guitar.
+- 🎮 Outside tech: Playing videogames, listening to music, and playing guitar.
 - 📫 Reach out to me at: <a href="mailto:nicolaamoruso1015@gmail.com">nicolaamoruso1015@gmail.com</a>
 
 <br clear="right"/>
@@ -38,8 +38,8 @@ I have moved beyond "just learning" to <strong>building scalable production appl
 <h4> Backend & Database </h4>
 <p>
   <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/SQL_&_Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </p>

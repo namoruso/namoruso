@@ -1,51 +1,72 @@
-<h1 align="center"><b>Hi , I'm Nicola Amoruso </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<!--  -->
-<img align="right" width=300px alt="Unicorn" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+<h1 align="center">Hi, I'm Nicola Amoruso <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<h3 align="center">🚀 Full Stack Developer | Computer Engineering Student</h3>
 
-I am a computer engineering student, currently halfway through my degree. I am expanding my knowledge in both front-end and back-end development. I love to learn and build something new, productive, innovative and creative.
-- 🌱 I’m currently learning ...
-  - Next.js
-  - React Native
-- 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help<br>
-- Outside tech, 🎮 playing videogames, 🎵 listening to music, and 🎸 playing guitar.
-- 📫 Reach out to me at: <a href="nicolaamoruso1015@gmail.com">nicolaamoruso1015@gmail.com</a>
+<img align="right" width="250px" alt="Hollow Knight" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 
-## My Skills Include
+<p align="left">
+ <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; <strong>About me</strong>
+</p>
 
-<h4> Languages </h4>
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+<p>
+I am a <strong>Computer Engineering student</strong> nearing the end of my degree and a <strong>Full Stack Developer</strong> specializing in the <strong>MERN stack</strong> and modern frameworks like <strong>Next.js 14</strong>.
+<br><br>
+I have moved beyond "just learning" to <strong>building scalable production applications</strong>. I focus on creating immersive user experiences with <strong>Tailwind CSS</strong> and robust backends with <strong>Supabase & PostgreSQL</strong>.
+</p>
+
+- 🔭 I’m currently working on **Advanced ERP Systems & Event Platforms**.
+- 🌱 I’m currently expanding my skills in **Rust** and **Spring Boot**.
+- 🤝 I’m looking to collaborate on impactful **Open Source projects**.
+- 🎮 Outside tech: Playing Counter-Strike 2, listening to music, and playing guitar.
+- 📫 Reach out to me at: <a href="mailto:nicolaamoruso1015@gmail.com">nicolaamoruso1015@gmail.com</a>
+
+<br clear="right"/>
+
+---
+
+## 🛠️ Tech Stack & Skills
+
+<h4> Frontend Ecosystem </h4>
+<p>
+  <img src="https://img.shields.io/badge/Next.js_14-black?style=for-the-badge&logo=next.js&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-  <img src= "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+</p>
 
+<h4> Backend & Database </h4>
+<p>
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
+  <img src="https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=3ECF8E">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
+</p>
 
-
-</span>
-
-
-<h4> Other Tools and Technologies </h4>
-<span>
+<h4> Tools & DevOps </h4>
+<p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white">
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
+</p>
 
+---
 
+## 🌟 Featured Projects
 
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| **🛍️ Show Proba** | **Event Rental Platform.** A high-performance app with dynamic themes (CMS), dark mode, and direct WhatsApp quotation. | `Next.js 14` `Supabase` `Tailwind v4` |
+| **🔧 Amoruso Inv.** | **Workshop ERP System.** Business management tool with fiscal automation, remote client approval, and RLS security. | `React` `Node.js` `PostgreSQL` |
 
-</span>
+---
 
-<h2>Github stats:</h2> 
+<h2>📊 Github Stats</h2>
 
 <p align="center">
 <a href="https://github.com/namoruso">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namoruso&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=namoruso&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=namoruso&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=namoruso&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
 </a>
 </p>

@@ -13,14 +13,14 @@
 
 - 🧠 Passionate about **backend architecture**, **AI integration** and building systems that scale.
 - 🔭 Currently exploring **RAG pipelines**, **LLM orchestration** and **vector databases** in real production scenarios.
-- 🌱 Deepening my skills in **Java Enterprise**, **Spring Boot**, **Kafka** and **AWS**.
+- 🌱 Deepening my skills in **Kafka**, **Google Cloud architecture** and distributed systems design.
 - 🎓 Computer Engineering student, self-taught in everything that isn't covered in class.
 - 🤝 Open to collaborating on **open source** projects, especially around AI tooling and developer experience.
 - 🎮 Off-screen: video games, music, and guitar.
 - 📫 Reach me at **nicolaamoruso1015@gmail.com**
 
 </td>
-<td width="35%" valign="top" align="center">
+<td width="35%" valign="middle" align="center">
 <img width="220px" alt="Hollow Knight" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
 </td>
 </tr>

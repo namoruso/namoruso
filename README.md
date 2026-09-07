@@ -1,23 +1,30 @@
 <h1 align="center">Hi, I'm Nicola Amoruso 👋</h1>
-<h3 align="center">Full Stack Developer · Backend & AI Engineering</h3>
+<h3 align="center">Turning ideas into scalable, production-ready systems</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+and+LLM-powered+backends;Node.js+%2B+TypeScript+%2B+PostgreSQL+%2B+Redis;Computer+Engineering+Student+%40+UJAP;Always+shipping+something+new" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=650&lines=Building+RAG+pipelines+and+LLM-powered+backends;Node.js+%2B+TypeScript+%2B+PostgreSQL+%2B+Redis;Turning+ideas+into+production-ready+APIs;Always+shipping+something+new" alt="Typing SVG" />
 </p>
 
-<img align="right" width="240px" alt="Hollow Knight" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+<table>
+<tr>
+<td width="65%" valign="top">
 
 ## 👨‍💻 About Me
 
 - 🧠 Passionate about **backend architecture**, **AI integration** and building systems that scale.
 - 🔭 Currently exploring **RAG pipelines**, **LLM orchestration** and **vector databases** in real production scenarios.
 - 🌱 Deepening my skills in **Java Enterprise**, **Spring Boot**, **Kafka** and **AWS**.
-- 🎓 Computer Engineering student at **UJAP** (2023 – 2027), self-taught in everything between the semesters.
+- 🎓 Computer Engineering student, self-taught in everything that isn't covered in class.
 - 🤝 Open to collaborating on **open source** projects, especially around AI tooling and developer experience.
 - 🎮 Off-screen: video games, music, and guitar.
 - 📫 Reach me at **nicolaamoruso1015@gmail.com**
 
-<br clear="right"/>
+</td>
+<td width="35%" valign="top" align="center">
+<img width="220px" alt="Hollow Knight" src="https://raw.githubusercontent.com/TanZng/TanZng/master/assets/hollor_knight3.gif" />
+</td>
+</tr>
+</table>
 
 ---
 
@@ -109,13 +116,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=namoruso&theme=react-dark&hide_border=true&area=true" alt="Activity Graph"/>
 </p>
 
-## 🐍 Commit Activity
+## 👻 Commit Activity
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namoruso/namoruso/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namoruso/namoruso/output/github-contribution-grid-snake.svg" />
-    <img alt="snake animation showing github contributions" src="https://raw.githubusercontent.com/namoruso/namoruso/output/github-contribution-grid-snake.svg" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/namoruso/namoruso/output/pacman-contribution-graph-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/namoruso/namoruso/output/pacman-contribution-graph.svg" />
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/namoruso/namoruso/output/pacman-contribution-graph.svg" />
   </picture>
 </p>
 
